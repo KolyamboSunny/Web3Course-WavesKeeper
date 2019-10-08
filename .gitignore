@@ -1,0 +1,5 @@
+package-lock.json
+public/build
+public/index.html
+node_modules
+dist
